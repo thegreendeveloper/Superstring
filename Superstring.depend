@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1488117777 source:c:\users\tjoe bum\documents\github\superstring\superstring.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdio>
+	<map>
+	<regex>
+	<algorithm>
+	<iterator>
+	<set>
+	<cctype>
+	<fstream>
+
